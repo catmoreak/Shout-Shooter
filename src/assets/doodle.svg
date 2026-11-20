@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 280" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <g stroke="#1f2d4d" stroke-opacity=".35" stroke-width="1.5">
+    <path d="M8 90c120-2 260 2 504-1"/>
+    <path d="M8 115c140 1 300-2 504 0"/>
+    <path d="M10 140c160-1 320 2 502-1"/>
+    <path d="M8 165c130 2 280-1 504 1"/>
+    <path d="M9 190c150-1 330 1 503-1"/>
+  </g>
+  <g stroke="#1f2d4d" stroke-width="2.5">
+    <path d="M14 142h34M10 154h40M18 166h30"/>
+    <path d="M118 152 64 135l12 19-10 18z" fill="#fff"/>
+    <path d="M118 152 76 154"/>
+  </g>
+  <g fill="#1f2d4d" stroke="#1f2d4d" stroke-width="3">
+    <ellipse cx="170" cy="146" rx="9" ry="6.5" transform="rotate(-22 170 146)" stroke="none"/>
+    <path d="M178 143v-38"/>
+    <ellipse cx="240" cy="128" rx="9" ry="6.5" transform="rotate(-22 240 128)" stroke="none"/>
+    <path d="M248 125V87q16 10 12 26"/>
+    <ellipse cx="312" cy="112" rx="11" ry="8" transform="rotate(-22 312 112)" stroke="none"/>
+    <path d="M322 108V62q20 12 15 32"/>
+  </g>
+  <g stroke="#c8372d" stroke-width="3">
+    <ellipse cx="440" cy="104" rx="30" ry="21" transform="rotate(14 440 104)" fill="#f4f5f0"/>
+    <ellipse cx="440" cy="104" rx="30" ry="21" transform="rotate(74 440 104)"/>
+    <ellipse cx="440" cy="104" rx="30" ry="21" transform="rotate(134 440 104)"/>
+  </g>
+  <g stroke="#c8372d" stroke-width="2">
+    <path d="M396 64l-10-12M440 56V40M484 66l10-12"/>
+  </g>
+  <path d="M120 230c40-10 90 8 130-2s60-12 90 0" stroke="#f2d330" stroke-width="14" stroke-opacity=".8"/>
+  <text x="140" y="238" fill="#1f2d4d" font-family="Shantell Sans, Comic Sans MS, sans-serif" font-size="22">hold space to fire</text>
+</svg>
